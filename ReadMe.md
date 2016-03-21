@@ -1,10 +1,9 @@
-
 # 机器学习笔记
 
 ## 简介
 
 > 作者：李金 <br>
-> 版本：0.0.1 <br>
+> 版本：0.0.1<br>
 > 邮件：lijinwithyou@gmail.com
 
 机器学习笔记，使用 `ipython notebook (jupyter notebook)` 进行展示。
@@ -26,3 +25,9 @@
 - [1. 简介](Chap-01-Introduction)
     - [1.1 例子：多项式拟合](Chap-01-Introduction/01-01-Example-Polynomial-Curve-Fitting.ipynb)
     - [1.2 概率论](Chap-01-Introduction/01-02-Probability-Theory.ipynb)
+        - 1.2.1 概率密度函数
+        - 1.2.2 期望和方差
+        - 1.2.3 Bayes 概率
+        - 1.2.4 高斯分布
+        - 1.2.5 重新理解曲线拟合
+        - 1.2.6 Bayes 曲线拟合
