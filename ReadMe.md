@@ -1,3 +1,4 @@
+
 # 机器学习笔记
 
 ## 简介
@@ -6,7 +7,9 @@
 > 版本：0.0.1<br>
 > 邮件：lijinwithyou@gmail.com
 
-机器学习笔记，使用 `ipython notebook (jupyter notebook)` 进行展示。
+机器学习笔记，使用 `jupyter notebook (ipython notebook)` 进行展示。
+
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/lijin-THU/notes-machine-learning/blob/master/ReadMe.ipynb) 中查看该项目。
 
 ----
 
@@ -35,4 +38,8 @@
     - [1.4 维数灾难](Chap-01-Introduction/01-04-The-Curse-of-Dimensionality.ipynb)
     - [1.5 决策理论](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
         - [1.5.1 最小错误率决策](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
-        - [1.5.2 最小损失决策](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
+        - [1.5.2 最小风险决策](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
+        - [1.5.3 拒绝选项](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
+        - [1.5.4 推断和决策](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
+        - [1.5.5 回归问题的损失函数](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
+    - [附录 D 变分法](Appendix/Appendix-D-Calculus-of-Variations.ipynb)
