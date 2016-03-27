@@ -43,3 +43,5 @@
         - [1.5.4 推断和决策](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
         - [1.5.5 回归问题的损失函数](Chap-01-Introduction/01-05-Decision-Theory.ipynb)
     - [附录 D 变分法](Appendix/Appendix-D-Calculus-of-Variations.ipynb)
+    - [1.6 信息论](Chap-01-Introduction/01-06-Information-Theory.ipynb)
+    - [附录 E Lagrange 乘子](Appendix/Appendix-E-Lagrange-Multipliers.ipynb)
