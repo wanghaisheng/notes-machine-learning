@@ -44,7 +44,7 @@
     - [2.1. 二元变量](Chap-02-Probability-Distributions/02-01-Binary-Variables.ipynb)
         - [2.1.1 Beta 分布](Chap-02-Probability-Distributions/02-01-Binary-Variables.ipynb)
     - [2.2. 多元变量](Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
-        - [2.2.1. 狄利克里分布](Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
+        - [2.2.1. 狄利克雷分布](Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
 
 ----
 
