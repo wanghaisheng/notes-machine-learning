@@ -48,7 +48,7 @@
     - [2.2. 多元变量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
         - [2.2.1. 狄利克雷分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
     - [2.3. 高斯分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
-    
+        - [2.3.1. 条件高斯分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
     
 ### 第二部分 DP 笔记
 
