@@ -17,7 +17,7 @@
 
 第一部分来自 `Bishop` 的经典书籍 `Pattern Recognition and Machine Learning`。
 
-第二部分来自 `Bengio` 的最新数据 `Deep Learning`。
+第二部分来自 `Bengio` 的最新书籍 `Deep Learning`。
 
 ### 第一部分 PRML 笔记
 
@@ -49,6 +49,11 @@
         - [2.2.1. 狄利克雷分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-02-Multinomial-Variables.ipynb)
     - [2.3. 高斯分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.1. 条件高斯分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.2. 边缘高斯分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.3 高斯变量的贝叶斯理论](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.4. 高斯分布最大似然](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.5. 序列估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        
     
 ### 第二部分 DP 笔记
 
