@@ -53,13 +53,16 @@
         - [2.3.3. 高斯变量的贝叶斯理论](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.4. 高斯分布最大似然](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.5. 序列估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
-        
-    
+        - [2.3.6. 高斯分布的贝叶斯估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+
 ### 第二部分 DP 笔记
 
-- [Part I 数学和机器学习基础](Deep-Learning/Part-I)
+- [I 数学和机器学习基础](Deep-Learning/Part-I)
     - [2. 线性代数](Deep-Learning/Part-I/Chap-02-Linear-Algebra)
         - [2.1 标量，向量，矩阵和张量](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-01-Scalars-Vectors-Matrices-and-Tensors.ipynb)
+        - [2.2 矩阵乘法](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-02-Multiplying-Matrices-and-Vectors.ipynb)
+        - [2.2 单位矩阵和逆](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-03-Identity-and-Inverse-Matrices.ipynb)
+        - [2.4 线性无关和生成空间](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-04-Linear-Dependence-and-Span.ipynb)
 
 ----
 
