@@ -54,6 +54,7 @@
         - [2.3.4. 高斯分布最大似然](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.5. 序列估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.6. 高斯分布的贝叶斯估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.7. 学生 t 分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
 
 ### 第二部分 DP 笔记
 
@@ -63,6 +64,8 @@
         - [2.2 矩阵乘法](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-02-Multiplying-Matrices-and-Vectors.ipynb)
         - [2.2 单位矩阵和逆](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-03-Identity-and-Inverse-Matrices.ipynb)
         - [2.4 线性无关和生成空间](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-04-Linear-Dependence-and-Span.ipynb)
+        - [2.5 范数](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-05-Norms.ipynb)
+        - [2.6 特殊矩阵和向量](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-06-Special-Kinds-of-Matrices-and-Vectors.ipynb)
 
 ----
 
