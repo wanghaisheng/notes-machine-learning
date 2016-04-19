@@ -55,6 +55,7 @@
         - [2.3.5. 序列估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.6. 高斯分布的贝叶斯估计](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
         - [2.3.7. 学生 t 分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
+        - [2.3.8. 周期变量和 von Mises 分布](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-03-The-Gaussian-Distribution.ipynb)
 
 ### 第二部分 DP 笔记
 
@@ -66,6 +67,7 @@
         - [2.4 线性无关和生成空间](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-04-Linear-Dependence-and-Span.ipynb)
         - [2.5 范数](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-05-Norms.ipynb)
         - [2.6 特殊矩阵和向量](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-06-Special-Kinds-of-Matrices-and-Vectors.ipynb)
+        - [2.7 特征值分解](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-07-Eigendecomposition.ipynb)
 
 ----
 
@@ -73,4 +75,4 @@
 
 [1] Christopher, M. Bishop. "Pattern recognition and machine learning." Company New York 16.4 (2006): 049901.
 
-[2] Bengio Y, Goodfellow I J, Courville A. Deep learning[J]. An MIT Press book in preparation. Draft chapters available at http//www.iro.umontreal.ca/∼bengioy/dlbook, 2015.
+[2] Bengio Y, Goodfellow I J, Courville A. Deep learning[J]. An MIT Press book in preparation. Draft chapters available at http://www.iro.umontreal.ca/∼bengioy/dlbook, 2015.
