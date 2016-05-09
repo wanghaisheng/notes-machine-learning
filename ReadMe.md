@@ -63,7 +63,10 @@
         - [2.4.3. 无信息先验](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.3-无信息先验)
     - [2.5. 非参数方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5 非参数方法)
         - [2.5.1. 核密度估计量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.1-核密度估计量)
-        - [2.5.2. 近邻方法](http://elk:8765/notebooks/notes-machine-learning/Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.2-近邻方法)
+        - [2.5.2. 近邻方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.2-近邻方法)
+- [3. 线性回归模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression)        
+    - [3.1. 线性基函数回归模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb)
+        - [3.1.1. 最大似然和最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.1-最大似然和最小二乘)
 
 ### 第二部分 DP 笔记
 
