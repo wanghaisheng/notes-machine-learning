@@ -61,6 +61,9 @@
         - [2.4.1. 最大似然和充分统计量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.1-最大似然和充分统计量)
         - [2.4.2. 共轭先验](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.2-共轭先验)
         - [2.4.3. 无信息先验](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.3-无信息先验)
+    - [2.5. 非参数方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5 非参数方法)
+        - [2.5.1. 核密度估计量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.1-核密度估计量)
+        - [2.5.2. 近邻方法](http://elk:8765/notebooks/notes-machine-learning/Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.2-近邻方法)
 
 ### 第二部分 DP 笔记
 
