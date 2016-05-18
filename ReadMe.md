@@ -67,6 +67,8 @@
 - [3. 线性回归模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression)        
     - [3.1. 线性基函数回归模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb)
         - [3.1.1. 最大似然和最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.1-最大似然和最小二乘)
+        - [3.1.2. 最小二乘的几何表示](http://elk:8765/notebooks/notes-machine-learning/Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.2-最小二乘的几何表示)
+        - [3.1.3. 序贯学习](http://elk:8765/notebooks/notes-machine-learning/Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.3-序贯学习)
 
 ### 第二部分 DP 笔记
 
