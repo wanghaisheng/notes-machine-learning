@@ -69,8 +69,10 @@
         - [3.1.1. 最大似然和最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.1-最大似然和最小二乘)
         - [3.1.2. 最小二乘的几何表示](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.2-最小二乘的几何表示)
         - [3.1.3. 序贯学习](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.3-序贯学习)
-        - [3.1.4. 带正则的最小二乘)](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.4-带正则的最小二乘)
+        - [3.1.4. 带正则的最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.4-带正则的最小二乘)
         - [3.1.5. 多维输出](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.5-多维输出)
+    - [3.2 Bias-Variance 分解](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-02-The-Bias-Variance-Decomposition.ipynb)
+        
 
 ### 第二部分 DP 笔记
 
