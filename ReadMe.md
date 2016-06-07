@@ -72,7 +72,9 @@
         - [3.1.4. 带正则的最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.4-带正则的最小二乘)
         - [3.1.5. 多维输出](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.5-多维输出)
     - [3.2 Bias-Variance 分解](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-02-The-Bias-Variance-Decomposition.ipynb)
-        
+    - [3.3 Bayes 线性回归](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb)
+        - [3.3.1. 参数分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.1-参数分布)
+        - [3.3.2. 预测值分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值分布)
 
 ### 第二部分 DP 笔记
 
