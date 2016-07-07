@@ -73,8 +73,10 @@
         - [3.1.5. 多维输出](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.5-多维输出)
     - [3.2 Bias-Variance 分解](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-02-The-Bias-Variance-Decomposition.ipynb)
     - [3.3 Bayes 线性回归](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb)
-        - [3.3.1. 参数分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.1-参数分布)
-        - [3.3.2. 预测值分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值分布)
+        - [3.3.1. 参数的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.1-参数的分布)
+        - [3.3.2. 预测值的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值的分布)
+        - [3.3.3. 等价核](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.3-等价核)
+    - [3.4 贝叶斯模型比较](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-04-Bayesian-Model-Comparison.ipynb)
 
 ### 第二部分 DP 笔记
 
@@ -98,4 +100,4 @@
 
 [1] Christopher, M. Bishop. "Pattern recognition and machine learning." Company New York 16.4 (2006): 049901.
 
-[2] Bengio Y, Goodfellow I J, Courville A. Deep learning[J]. An MIT Press book in preparation. Draft chapters available at http://www.iro.umontreal.ca/∼bengioy/dlbook, 2015.
+[2] Goodfellow I, Bengio Y, Courville A. Deep learning[J]. 2015, 2016.
